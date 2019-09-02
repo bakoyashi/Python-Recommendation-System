@@ -1,0 +1,2 @@
+anime-recommendations-database/anime.csv filter=lfs diff=lfs merge=lfs -text
+anime-recommendations-database/rating.csv filter=lfs diff=lfs merge=lfs -text
